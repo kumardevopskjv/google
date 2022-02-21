@@ -1,6 +1,7 @@
-.classpath
-.settings
-node_modules/
+ .gitignore
+ .classpath
+ .settings
+ node_modules/
 
 
 
